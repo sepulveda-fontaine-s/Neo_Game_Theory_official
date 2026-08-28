@@ -63,6 +63,9 @@ general_formulation/
 
 Scenario_1
 ├── README_Scenario_1.md
+├── supplementary/
+│   ├── Supplementary_material_Sc1_Ch_I.pdf
+│   └── Supplementary_material_Sc1_Ch_II.pdf
 ├── __init__.py                   # package marker
 ├── config.py                     # operational settings for Scenario 1.
 ├── main.py                       # end-to-end orchestration for Scenario 1
