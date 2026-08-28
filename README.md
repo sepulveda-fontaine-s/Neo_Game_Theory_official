@@ -63,7 +63,7 @@ general_formulation/
 
 Scenario_1
 ├── README_Scenario_1.md
-├── supplementary/
+├── supplementary_material/
 │   ├── Supplementary_material_Sc1_Ch_I.pdf
 │   └── Supplementary_material_Sc1_Ch_II.pdf
 ├── __init__.py                   # package marker
