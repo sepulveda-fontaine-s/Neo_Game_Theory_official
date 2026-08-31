@@ -240,26 +240,6 @@ scenarioX_best_joint_final_H_<H>_ScX.csv
 plots/
 ```
 
-Each plot has been renamed in order to fit in this repository, example:
-
-1. **Original name:**  
-   <sub>scenario1__H-15000__<wbr>eta-constant__<wbr>eta0-0p05__<wbr>c-NA__<wbr>random_states-true__<wbr>pA-0p9__<wbr>alpha_agree-0p2__<wbr>alpha_disagree-0p51__<wbr>beta-0p1__<wbr>gamma-0p1__<wbr>seed-42__<wbr>id-3ed50b2768__<wbr>plot1_a1.png</sub>
-
-   **Renamed to:**  
-   <sub>sc1_15000__<wbr>eta-const-0p05__<wbr>c-NA__<wbr>rd_sts-T__<wbr>pA-0p9__<wbr>alpha_ag-0p2__<wbr>alpha_dis-0p51__<wbr>bet-0p1__<wbr>gam-0p1__<wbr>sd-42__<wbr>id-3ed50b2768__<wbr>plot1_a1.png</sub>
-
-2. **Original name:**  
-   <sub>scenario1__H-30000__<wbr>eta-exact_empirical__<wbr>eta0-NA__<wbr>c-NA__<wbr>random_states-false__<wbr>pA-NA__<wbr>alpha_agree-0p2__<wbr>alpha_disagree-0p35__<wbr>beta-0p05__<wbr>gamma-0p5__<wbr>seed-42__<wbr>id-1e7f298447__<wbr>plot1_a1.png</sub>
-
-   **Renamed to:**  
-   <sub>sc1_30000__<wbr>eta_emp-NA__<wbr>c-NA__<wbr>rd_sts-F__<wbr>pA-NA__<wbr>alpha_ag-0p2__<wbr>alpha_dis-0p35__<wbr>bet-0p05__<wbr>gam-0p5__<wbr>sd-42__<wbr>id-1e7f298447__<wbr>plot1_a1.png</sub>
-
-3. **Original name:**  
-   <sub>scenario1__H-50000__<wbr>eta-global_decay__<wbr>eta0-0p1__<wbr>c-0p002__<wbr>random_states-true__<wbr>pA-0p3__<wbr>alpha_agree-0p49__<wbr>alpha_disagree-0p85__<wbr>beta-0p1__<wbr>gamma-0p5__<wbr>seed-42__<wbr>id-b51159e288__<wbr>plot1_a1.png</sub>
-
-   **Renamed to:**  
-   <sub>sc1_50000__<wbr>eta_decay-0p1__<wbr>c-0p002__<wbr>rd_sts-T__<wbr>pA-0p3__<wbr>alpha_ag-0p49__<wbr>alpha_dis-0p85__<wbr>bet-0p1__<wbr>gam-0p5__<wbr>sd-42__<wbr>id-b51159e288__<wbr>plot1_a1.png</sub>
-
 The `scenarioX_best_joint_final_H_<H>_ScX.csv` file carries
 the horizon and scenario token in the filename. With the current single seed,
 each horizon produces six winner groups (`3 eta kinds × 2 state-generation
