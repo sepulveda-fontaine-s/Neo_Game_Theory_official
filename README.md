@@ -28,6 +28,10 @@ is published.
 This repository is intended to become the common archive for all three Neo-Game
 Theory scenarios, together with the code, simulation results and supplementary material associated with
 their respective papers. 
+
+Each code module is documented to make explicit the correspondence between the implementation and the 
+formal structure defined in the manuscript, thereby facilitating traceability between equations, decision 
+rules, and computational procedures.
 At present, only Part I, its Scenario 1 implementation, and
 its supplementary material are included in the public release.
 
