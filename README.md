@@ -1,6 +1,6 @@
 # Neo-Game Theory — Part I & Part II: Scenarios 1, 2 and 3
 
-Repository corresponding to simulations of papers: 
+Repository corresponding to simulations of papers yet under revision: 
 
 a) **An Entropy-Based Framework for Hybrid Coalitions in Game
 Theory—Part I: Human Arbitration**
